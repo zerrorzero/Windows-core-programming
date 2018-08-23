@@ -10,3 +10,6 @@ There 5 code with Windows-core-programming.
 4. guiapp.cpp is a window exe to save window's message and what you input.and show or hide each 10s.
 
 5. changepower.cpp is a exe to change the file's power only include system,or change service's power to users or else.
+
+
+Compiling Environment：VS2013, Multi byte character set , MT , release
